@@ -1,2 +1,2 @@
-# Taller-Streamit-
-Taller de Streamit
+# TallerStreamit
+Mi primer sofware en Streamit
