@@ -1,1 +1,5 @@
-
+Streamlit
+google-generativeai
+Almohada
+numpy
+OpenCV-Python-sin cabeza
